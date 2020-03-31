@@ -48,7 +48,7 @@ Currently, Avatar automates two things:
 
 Please go to avatar.ini first to change the settings for your SMTP;
 
-Then, opem up Microsoft Teams.
+Then, open up Microsoft Teams.
 
 Go to emails.csv and teams.csv to manipulate a schedule when you want to send those emails/messages as well as how texts you want to send. 
 
@@ -75,13 +75,15 @@ Avatar will send out the emails as well as sending out the team messages accordi
 
 Well, this is not enough. 
 
-I will tentatively incorporate two other features in longer-term:
+I will tentatively incorporate other features in longer-term:
 
 1. Get rid of calibration: automatically identify where to type messages and send;
-1. Behavioural analysis: perform network traffic analysis to identify users' behavioural patterns every day;
-1. Behavioural imitation: with the pattern revealed, let Avatar manipulate network packages or manipulate relevant programs to send out packages that build up similar behavioural patterns.
+1. Behavioural analysis: perform network activity analysis to identify users' behavioural patterns every day;
+1. Behavioural imitation: with the pattern revealed, let Avatar manipulate network packages or manipulate relevant programs to send out network packages that build up similar behavioural patterns.
 
 Yes, we are targeting network auditing! 
+
+It wants to create a digital you!
 
 Avatar is more than an automation tool. Well, hopefully.
 
