@@ -1,0 +1,3 @@
+package AvatarConfig
+
+//nothing yet
