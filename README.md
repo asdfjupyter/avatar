@@ -1,4 +1,4 @@
-> Avatar - Your Personal Work from Home Cheater, oh no, Assitant
+> Avatar - Your Personal Working from Home Cheater, oh no, Assitant
 
 # Avatar
 
