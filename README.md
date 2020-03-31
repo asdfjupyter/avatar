@@ -63,7 +63,7 @@ or
 ```
 go build avatar.go
 ```
-and invoke the program such as avatar.exe
+and invoke the program such as avatar.exe (use powershell if you can, tested)
 
 You need to follow the prompts to calibrate Avatar first so that it knows where to click on Teams to bring up the input filed for the team message. This can be automated in the future. 
 
